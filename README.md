@@ -15,6 +15,6 @@
   <a href="https://twitter.com/SakibSibly" alt="Twitter">
   <img align="left" width="40px" height="40px" src="https://img.icons8.com/fluency/48/twitterx--v1.png" alt="twitterx--v1"/></a>
 
-  <a href="https://www.facebook.com/SakibSibly/" alt="Facebook">
+  <a href="https://www.facebook.com/SakibSibly" alt="Facebook">
   <img align="left" width="40px" height="40px" src="https://img.icons8.com/fluency/48/facebook.png" alt="facebook"/></a>
 </p>
