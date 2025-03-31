@@ -1,6 +1,6 @@
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="490px" max-width="490px" width="490px" align="right" alt="computer AzevedoNTC">
 <p align="left">
-  📌 My name is <strong> Nazmus Sakib Sibly </strong>. I'm passionate about technology and especially programming.<br>
+  📌 My name is <strong> Nazmus Sakib Sibly</strong>. I'm passionate about technology and especially programming.<br>
   
   Currently I am a student of computer science and I intend to continue with the course and other sources of knowledge, always looking to improve.
 </p>
