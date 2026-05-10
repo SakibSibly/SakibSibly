@@ -2,7 +2,7 @@
 <p align="left">
   📌 My name is <strong> Nazmus Sakib Sibly</strong>. I'm passionate about technology and especially programming.<br>
   
-  Currently I am a student of computer science and I intend to continue with the course and other sources of knowledge, always looking to improve.
+  Currently I am employed as a **Software Engineer** at **Race Online Limited**, always looking forward to improve.
 </p>
 
 <p align="left">
